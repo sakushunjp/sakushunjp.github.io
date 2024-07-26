@@ -12,8 +12,8 @@
 body {
   margin: 0;
 /*   font-family: "Hiragino Kaku Gothic ProN"; */
-/*   font-family: "Arial", "ヒラギノ角ゴシック"sans-serif; */
-  font-family: "ヒラギノ明朝", "Times",serif;
+  font-family: "Arial", "ヒラギノ角ゴシック"sans-serif;
+/*   font-family: "ヒラギノ明朝", "Times",serif; */
 
 }
 
@@ -100,7 +100,7 @@ header {
 
 .header-right a {
   line-height: 65px;
-  padding: 0 25px;
+  padding: 0 2px;
   color: white;
   display: block;
   float: left;
