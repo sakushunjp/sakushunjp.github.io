@@ -6,7 +6,8 @@
 body {
   margin: 0;
 /*   font-family: "Hiragino Kaku Gothic ProN"; */
-  font-family: "MS Pゴシック",sans-serif;
+/*   font-family: "Arial", "ヒラギノ角ゴシック"sans-serif; */
+  font-family: "ヒラギノ明朝", "Times",serif;
 
 }
 
