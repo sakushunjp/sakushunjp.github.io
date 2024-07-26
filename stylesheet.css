@@ -35,6 +35,13 @@ a {
   text-align: center;
 }
 
+.main-wrapper {
+  padding: 180px 0 100px 0;
+  background-color: #00aaff;
+  color: black;
+  text-align: center;
+}
+
 .btn-wrapper {
   text-align: center;
 }
