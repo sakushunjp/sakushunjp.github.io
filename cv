@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="description" content="Home page of Shunichi Sakurai.">
+  <title>sakushunjp</title>
+  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+  <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+<body>
+  <header>
+    <div class="container">
+      <div class="header-left">
+        <img class="logo" src="https://github.com/sakushunjp/sakushunjp.github.io/blob/main/sakushun_in_no.png?raw=true">
+      </div>
+      <span class="fa fa-bars menu-icon"></span>
+      <div class="header-right">
+        <a href="https://sakushunjp.github.io/home">Home</a>
+        <a href="https://sakushunjp.github.io/cv">cv</a>        
+        <a href="https://sakushunjp.github.io/publicatoins">Publications</a>        
+        <a href="https://sakushunjp.github.io/contact">Contact</a>
+<!--         <a href="#" class="login">ログイン</a> -->
+      </div>
+    </div>
+  </header>
+<!-- 
+      <nav id="mainNav">
+      <div class="inner">
+	<a class="menu" id="menu"><span>MENU</span></a>
+	<div class="panel">
+	  <ul>
+	    <li> <a href="index.html"><strong>トップページ</strong><span>Top</span></a></li>
+	    <li>
+	      <a href="members.html"><strong>メンバー</strong><span>Members</span></a>
+	    </li>
+	    <li>
+	      <a href="https://scrapbox.io/isakarilab-public/目次"><strong>研究内容</strong><span>Studies</span></a>
+	    </li>
+	    <li class="current-menu-item">
+	      <a href="publications.html"><strong>業績</strong><span>Publications</span></a>
+	    </li>
+	    <li><a href="lecture.html"><strong>講義</strong><span>Lectures</span></a></li>
+	    <li><a href="contact.html"><strong>連絡先・アクセス</strong><span>Contacts・Directions</span></a></li>
+	  </ul>
+	</div>
+      </div>
+    </nav> -->
+  
+  <div class="top-wrapper">
+    <div class="container">
+      <h1>Shunichi Sakurai.<br>2024.</h1>
+<!--       <p>Progateはオンラインプログラミング学習サービスです。<br>初心者にもやさしいスライドとレッスンで、ウェブサービスを作りながらプログラミングを学んでいきましょう。</p> -->
+      <div class="btn-wrapper">
+<!--         <a href="#" class="btn signup">CV</a> -->
+        <a href="https://sakushunjp.github.io/">
+          <img class="logo" src="https://github.com/sakushunjp/sakushunjp.github.io/blob/main/sakurai-germeny.jpg?raw=true">
+        </a>
+        <p>or</p>
+        <a href="https://www.katsura.sd.keio.ac.jp/" class="btn facebook" target="_blank"><span class="fa fa-home"></span>Lab</a>
+        <a href="https://x.com/sakushunjp" class="btn twitter" target="_blank"><span class="fa fa-twitter"></span>X</a>
+      </div>
+    </div>
+  </div>
+  <div class="lesson-wrapper">
+    <div class="container">
+      <div class="heading">
+        <h2>Welcome to Shunichi's website!</h2>
+      </div>
+<!--       <div class="lessons">
+        <div class="lesson">
+          <div class="lesson-icon">
+            <img src="https://github.com/sakushunjp/sakushunjp.github.io/blob/main/sakurai-germeny.jpg?raw=true">
+            <p>HTML & CSS</p>
+          </div>
+          <p class="text-contents">ウェブページの作成に使用される言語です。HTMLとCSSを組み合わせることで、静的なページを作り上げることができます。</p>
+        </div>
+        <div class="lesson">
+          <div class="lesson-icon">
+            <img src="https://prog-8.com/images/html/advanced/jQuery.png">
+            <p>jQuery</p>
+          </div>
+          <p class="text-contents">素敵な動きを手軽に実装できるJavaScriptライブラリです。 アニメーション効果をつけたり、Ajax（エイジャックス）を使って外部ファイルを読み込んだりと色々なことができます。</p>
+        </div>
+        <div class="lesson">
+          <div class="lesson-icon">
+            <img src="https://prog-8.com/images/html/advanced/ruby.png">
+            <p>Ruby</p>
+          </div>
+          <p class="text-contents">オープンソースの動的なプログラミング言語で、 シンプルさと高い生産性を備えています。大きなWebアプリケーションから小さな日用ツールまで、さまざまなソフトウェアを作ることができます。</p>
+        </div>
+         <div class="lesson">
+          <div class="lesson-icon">
+            <img src="https://prog-8.com/images/html/advanced/php.png">
+            <p>PHP</p>
+          </div>
+          <p class="text-contents">HTMLだけではページの内容を変えることはできません。PHPはHTMLにプログラムを埋め込み、それを可能にします。</p>
+        </div>
+      </div> -->
+      <div class="clear"></div>
+    </div>
+  </div>
+<!--   <div class="message-wrapper">
+    <div class="container">
+      <div class="heading">
+        <h2>さぁ、あなたもProgateでプログラミングを学んでみませんか?</h2>
+        <h3>Let's learn to code, learn to be creative!</h3>
+      </div>
+      <span class="btn message">さっそく開発する</span>
+    </div>
+  </div> -->
+  <footer>
+    <div class="container">
+      <img src="https://github.com/sakushunjp/sakushunjp.github.io/blob/main/sakushun_in_no.png?raw=true">
+      <p>Shunichi Sakurai.2024.</p>
+    </div>
+  </footer>
+</body>
+</html>
