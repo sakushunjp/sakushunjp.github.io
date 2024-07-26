@@ -160,15 +160,6 @@ footer {
 }
 
 @media all and (max-width: 1000px) {
-  .lesson {
-    width: 50%;
-    margin-bottom: 50px;
-  }
-
-  .lesson-wrapper {
-    height: 990px;
-  }
-
   footer {
     text-align: center;
   }
@@ -211,14 +202,6 @@ footer {
 
   .top-wrapper p {
     font-size: 14px;
-  }
-
-  .lesson {
-    width: 100%;
-  }
-
-  .lesson-wrapper {
-    height: 1700px;
   }
 
   .message-wrapper .btn {
