@@ -30,7 +30,7 @@ a {
 .top-wrapper {
   padding: 180px 0 100px 0;
 /*   background-image: url(ume-winter.jpg); */
-  background-color: #D2165B
+  background-color: #D2165B;
   background-size: cover;
   color: black;
   text-align: center;
@@ -39,7 +39,7 @@ a {
 .main-wrapper {
   padding: 180px 0 100px 0;
 /*   background-color: #dbedf0; */
-  background-color: #D08FC0
+  background-color: #D08FC0;
   color: black;
   text-align: center;
 }
@@ -81,7 +81,7 @@ header {
   height: 65px;
   width: 100%;
 /*   background-color: rgba(34,49,52,0.9); */
-  background-color: #E49e1F
+  background-color: #E49e1F;
   position :fixed;
   top: 0;
   z-index: 10;
@@ -148,7 +148,7 @@ footer p {
 footer {
   padding-top: 30px;
   padding-bottom: 20px;
-  background-color: #E49e1F
+  background-color: #E49e1F;
 }
 
 .menu-icon {
